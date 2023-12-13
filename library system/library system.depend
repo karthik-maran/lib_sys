@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1702482946 source:c:\users\karth\documents\c package\library\library.c
+	"library.h"
+	<stdio.h>
+	<string.h>
+
+1702482946 c:\users\karth\documents\c package\library\library.h
+
+1702482946 source:c:\users\karth\documents\c package\library\main.c
+	<stdio.h>
+	"library.h"
+
